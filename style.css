@@ -169,7 +169,7 @@ textarea[name=comment]{
 
 button[type=submit] {
   	background-color: #4CAF50;
-  	padding: 10px;
+  	padding: 20px;
   	border: none;
  	border-radius: 4px;
   	cursor: pointer;
