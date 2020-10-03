@@ -169,13 +169,12 @@ textarea[name=comment]{
 
 button[type=submit] {
   	background-color: #4CAF50;
-  	padding: 20px;
   	border: none;
  	border-radius: 4px;
   	cursor: pointer;
   	font-family:"roboto";color:#fff;
  	padding-top:5px;
-	padding-bottom:5px;
+	padding-bottom:10px;
 	padding-left:30px;
 	padding-right:30px;
 	margin-bottom: 10px;
